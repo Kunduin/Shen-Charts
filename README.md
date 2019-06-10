@@ -1,5 +1,7 @@
 # 国宝特攻 「补档，实际完成时间 2018/2」
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kunduin/Shen-Charts.svg)](https://greenkeeper.io/)
+
 ## Copyright
 
 南京大学新闻传播学院数据新闻小组 王一珺、叶霁萱、沈欣
